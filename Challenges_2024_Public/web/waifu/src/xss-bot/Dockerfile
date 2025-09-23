@@ -1,1 +1,0 @@
-FROM ghcr.io/downunderctf/docker-vendor/xssbot:chrome

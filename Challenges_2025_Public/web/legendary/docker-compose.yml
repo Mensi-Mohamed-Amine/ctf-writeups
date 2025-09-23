@@ -1,6 +1,0 @@
-services:
-  legendary:
-    container_name: legendary
-    build: src/
-    ports:
-      - 80:80

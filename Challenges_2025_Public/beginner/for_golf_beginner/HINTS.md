@@ -1,3 +1,0 @@
-- The service is normally hosted on port 10809.
-- You'll need to setup a client on your machine. A virtual machine is recommended.
-- Look for the `nbd-client` package on Kali Linux.

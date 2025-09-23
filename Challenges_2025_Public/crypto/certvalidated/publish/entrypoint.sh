@@ -1,1 +1,0 @@
-../src/entrypoint.sh

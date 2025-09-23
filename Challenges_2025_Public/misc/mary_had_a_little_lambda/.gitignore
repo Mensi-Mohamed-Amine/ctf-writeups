@@ -1,4 +1,0 @@
-**/*.zip
-**/terraform.tfstate*
-**/.terraform*
-/src/lambda_src/
